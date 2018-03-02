@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "color": "^3.0.0"
+  },
+  "name": "jrnl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ranbir Singh <ransingh57@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
